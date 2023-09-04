@@ -1,4 +1,4 @@
-- Hi, I’m @sraina7
+- Hi, I’m Shehjar Raina
 - I’m interested in Data Analytics
 - I’m an accomplished Business Analyst with a recent MS in Business Analytics from Arizona State University
 - I'm always learning SQL, Tableau, Python
