@@ -3,6 +3,7 @@
 - I’m an accomplished Business Analyst with a recent MS in Business Analytics from Arizona State University
 - I'm always learning SQL, Tableau, Python
 - Reach out to me on shehjar.raina@gmail.com
+- Get to know me by having a look at my portfolio! - https://sraina7.github.io/
    
 
 <!---
